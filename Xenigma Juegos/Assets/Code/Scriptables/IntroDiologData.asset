@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2149c82d1a070e24d8befb1818fa6029, type: 3}
+  m_Name: IntroDiologData
+  m_EditorClassIdentifier: 
+  messages:
+  - actorId: 0
+    message: "Hace 10 a\xF1os construyeron la fuente y se ubstal\xF3 una impresionante
+      escultura dedicada a la \"Hermana Agua\" en el parque la Loma"
+  - actorId: 0
+    message: uno de los mas visitados por las familias tepicenses...
+  - actorId: 0
+    message: "En 1950, en el parque Juan Escut\xEDa, se coloc\xF3 una escultura similar"
+  - actorId: 0
+    message: "Era una figura de una mujer desnuda delante de un muro, en el que su
+      parte posterior se le\xEDa un fragmento de poema"
+  - actorId: 0
+    message: '"La Hermana Agua" del poeta nayarita Amado Nervo'
+  - actorId: 0
+    message: "Este monumento se desbarat\xF3 en 1980 y no fue hasta 1987 en que apresuradamente
+      se construyo el teatro del pueblo"
+  - actorId: 0
+    message: "que a\xFAn se mantiene en el mismo lugar donde fue la Hermana Agua."
+  - actorId: 0
+    message: "El poeta Amado Nervo no describi\xF3 en forma humana de figura femenina
+      ningun verso de poema La Hermana Agua"
+  - actorId: 0
+    message: El significado del agua en su poema La hermana Agua
+  - actorId: 0
+    message: "es a la misma vida del hombre, a su interpretaci\xF3n vital, "
+  - actorId: 0
+    message: a la hermosura del hielo, la brisa, la tormenta, el rio, etc.
+  - actorId: 0
+    message: 'UN FRAGMENTO DEL POEMA A LA HERMANA AGUA:'
+  - actorId: 0
+    message: "\"Lejos de sus ra\xEDces las carolas felices\""
+  - actorId: 0
+    message: "\"no se acuerdan del agua que reg\xF3 sus ra\xEDces...\""

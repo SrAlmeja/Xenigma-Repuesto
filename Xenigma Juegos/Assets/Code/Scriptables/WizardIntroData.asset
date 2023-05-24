@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2149c82d1a070e24d8befb1818fa6029, type: 3}
+  m_Name: WizardIntroData
+  m_EditorClassIdentifier: 
+  messages:
+  - actorId: 1
+    message: Wajajaja! Yo soy Klevo Malandrini el terrible mago del olvido...
+  - actorId: 1
+    message: y con mi poder borrare el conocimiento de todo Tepic
+  - actorId: 1
+    message: Asi todo el mundo olvidara su historia wajajaja...
+  - actorId: 1
+    message: "\xBFCrees tener el conocimiento para detenerme y salvar la historia
+      de tu ciudad?"
+  - actorId: 1
+    message: Wajajaja... Veamos si puedes superar mis pruevas
+  - actorId: 1
+    message: "mucha suerte explorador...   la necesitar\xE1s..."
