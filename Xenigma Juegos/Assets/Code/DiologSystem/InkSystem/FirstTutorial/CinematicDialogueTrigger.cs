@@ -1,18 +1,17 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class CinematicDialogueTrigger : MonoBehaviour
 {
-    // Start is called before the first frame update
+    [Header("Ink JSON")] [SerializeField]
+    private TextAsset inkJASON;
+    
+   
     void Start()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        InkDialogueManager.GetInstance().EnterDialogueMode(inkJASON);
     }
 }
