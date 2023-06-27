@@ -1,4 +1,4 @@
-Heeeeeloooooo my friend, im mr green #Speaker:Dr. Green #portrait:dr_green 
+Heeeeeloooooo my friend, im mr green #ActorName:Dr. Green #ActorImage:dr_green 
 -> main
 
 == main == 

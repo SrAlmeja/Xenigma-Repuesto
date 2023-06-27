@@ -3,13 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="06a3ff0a-6b1f-41f4-9158-6ee3a7df8365" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Xenigma Juegos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Xenigma Juegos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Test.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Test.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Test.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Test.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/00 InkTest.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/00 InkTest.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/FirstTutorial/InkDialogueManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/FirstTutorial/InkDialogueManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/SecondTutorial/Dr_Green.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/SecondTutorial/Dr_Green.ink" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/SecondTutorial/Dr_Green.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/SecondTutorial/Dr_Green.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/03CinematicSceen.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/03CinematicSceen.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +76,8 @@
       <workItem from="1685631716674" duration="3968000" />
       <workItem from="1686601850922" duration="122000" />
       <workItem from="1686602001353" duration="6000" />
+      <workItem from="1687705579205" duration="2755000" />
+      <workItem from="1687809157151" duration="3948000" />
     </task>
     <servers />
   </component>
