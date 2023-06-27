@@ -2426,6 +2426,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialoguePanel: {fileID: 527117775}
   dialogueText: {fileID: 1561520750}
+  ActorName: {fileID: 0}
 --- !u!1 &1204901025
 GameObject:
   m_ObjectHideFlags: 0
@@ -3013,6 +3014,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialoguePanel: {fileID: 1329648575}
   dialogueText: {fileID: 62514704}
+  ActorName: {fileID: 1602125684}
 --- !u!1 &1365403534
 GameObject:
   m_ObjectHideFlags: 0
@@ -3713,7 +3715,7 @@ GameObject:
   - component: {fileID: 1602125685}
   - component: {fileID: 1602125684}
   m_Layer: 5
-  m_Name: ActorText
+  m_Name: ActorName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3786,7 +3788,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 44.75
+  m_fontSize: 36.5
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3794,7 +3796,7 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 2
-  m_VerticalAlignment: 256
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -3822,7 +3824,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 5.733597, z: 0, w: 3.4848824}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -4481,7 +4483,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   visualCue: {fileID: 247835343}
-  inkJSON: {fileID: 4900000, guid: 4d0477e3b110bfc408d38af91d1caa98, type: 3}
+  inkJSON: {fileID: 4900000, guid: 075b14fa807e61c4b9b57e6f522f5576, type: 3}
 --- !u!61 &1751614972
 BoxCollider2D:
   m_ObjectHideFlags: 0
