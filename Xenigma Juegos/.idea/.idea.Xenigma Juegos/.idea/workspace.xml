@@ -3,27 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="06a3ff0a-6b1f-41f4-9158-6ee3a7df8365" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Xenigma Juegos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Xenigma Juegos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/CoreCode/CinematicManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/CoreCode/CinematicManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/CinematicDialogueTrigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/CinematicDialogueTrigger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ActorImageAnimator.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ActorImageAnimator.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/00 El Mago Klevo.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/00 El Mago Klevo.ink" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/00 El Mago Klevo.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/00 El Mago Klevo.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/01 Hermana Agua.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/01 Hermana Agua.ink" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/01 Hermana Agua.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/01 Hermana Agua.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/02 Rey Nayar.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/02 Rey Nayar.ink" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/02 Rey Nayar.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/02 Rey Nayar.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/03 Manuel Lozada.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/03 Manuel Lozada.ink" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/03 Manuel Lozada.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/03 Manuel Lozada.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/04 Parque Juan Escutia.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/04 Parque Juan Escutia.ink" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/04 Parque Juan Escutia.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/04 Parque Juan Escutia.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/06 Parque La Loma.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/06 Parque La Loma.ink" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/06 Parque La Loma.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/06 Parque La Loma.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/07 Alameda.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/07 Alameda.ink" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/07 Alameda.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/07 Alameda.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/08 Catedral.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/08 Catedral.ink" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/08 Catedral.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/08 Catedral.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/09 Palacio de Gobierno.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/09 Palacio de Gobierno.ink" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/09 Palacio de Gobierno.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/09 Palacio de Gobierno.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/10 Ex Fabrica Textil de Bellavista.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/10 Ex Fabrica Textil de Bellavista.ink" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/10 Ex Fabrica Textil de Bellavista.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/10 Ex Fabrica Textil de Bellavista.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/InkDialogueManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/InkDialogueManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/03CinematicSceen.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/03CinematicSceen.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/KlevoDialogueTrigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/KlevoDialogueTrigger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/02PreguntasDelPasado.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/02PreguntasDelPasado.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Code/CoreCode/GameQuestionManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/InkDialogueManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/KlevoDialogueTrigger.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -43,16 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;rider.run.widget.enabled.cache&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Discover.Launch.Via.Unity": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "rider.run.widget.enabled.cache": "false",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="F:\Unity\2021.3.8f1\Editor\Unity.exe" />
@@ -98,7 +91,7 @@
       <workItem from="1687705579205" duration="2755000" />
       <workItem from="1687809157151" duration="4748000" />
       <workItem from="1687918824316" duration="5580000" />
-      <workItem from="1687952623036" duration="2006000" />
+      <workItem from="1687952623036" duration="6984000" />
     </task>
     <servers />
   </component>

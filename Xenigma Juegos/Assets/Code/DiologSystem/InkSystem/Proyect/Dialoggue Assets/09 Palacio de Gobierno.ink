@@ -1,4 +1,4 @@
-# ActorName:Palacio de Gobierno #ActorImage:PalacioGobierno0 #layout Default
+# ActorName:Palacio de Gobierno #ActorImage:PalacioGobierno0 #layout:Default
 
 -> intro
 

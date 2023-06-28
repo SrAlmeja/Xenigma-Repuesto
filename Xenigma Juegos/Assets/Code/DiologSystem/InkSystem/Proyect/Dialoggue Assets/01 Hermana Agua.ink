@@ -1,4 +1,4 @@
-# ActorName:HermanaAgua #ActorImage:HermanaAgua0 #layout:Default
+# ActorName:Hermana Agua #ActorImage:HermanaAgua0 #layout:Default
 -> intro
 
 === intro ===

@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 //Se llama a la libreria de Inky
 using Ink.Runtime;
 
@@ -16,10 +17,10 @@ public class InkDialogueManager : MonoBehaviour
     [SerializeField] private Animator actorImageAnimator;
     [SerializeField] private Animator layoutAnimator;
 
-    [Header("SceneTransition")] [SerializeField]
-    private IntVariable sceneNumber;
-
+    [Header("Scene Controll")]
     private SceneTransition _sceneTransition;
+    private Scene currentScene;
+    private string sceneName;
 
     private Story currentStory;
     public bool dialogueIsPlaying {get; private set;}
@@ -57,10 +58,13 @@ public class InkDialogueManager : MonoBehaviour
     {
         dialogueIsPlaying = false;
         dialoguePanel.SetActive(false);
+        
+        
     }
 
     private void Update() 
     {
+        currentScene = SceneManager.GetActiveScene();
         // return si el dialogo esta activo
         if(!dialogueIsPlaying){
             return;
@@ -137,14 +141,24 @@ public class InkDialogueManager : MonoBehaviour
         dialogueIsPlaying = false;
         dialoguePanel.SetActive(false);
         dialogueText.text = "";
+        
+        sceneName = currentScene.name;
+        if (sceneName == "02PreguntasDelPasado")
+        {
+            yield return null;
+        }
+        else
+        {
+            StartCoroutine(GoToMyScene("02PreguntasDelPasado"));    
+        }
 
-        StartCoroutine(GoToMyScene("02PreguntasDelPasado"));
+        
     }
 
     private IEnumerator GoToMyScene(String SceneName)
     {
         yield return new WaitForSeconds(3f);
-
+        
         _sceneTransition.SceneToLoad = SceneName;
         _sceneTransition.LoadScene();
     }
