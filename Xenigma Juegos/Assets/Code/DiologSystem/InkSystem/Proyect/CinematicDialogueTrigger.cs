@@ -8,8 +8,7 @@ public class CinematicDialogueTrigger : MonoBehaviour
 {
     [Header("Ink JSON")] [SerializeField]
     private TextAsset inkJASON;
-    
-   
+
     void Start()
     {
         InkDialogueManager.GetInstance().EnterDialogueMode(inkJASON);

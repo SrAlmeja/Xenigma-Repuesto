@@ -39,4 +39,6 @@ En 1920 aterrizó en este espacio el primer aeroplano que visitó Tepic
 #layout:Narrator
 Las aves huyen, el viento sompla, algo oscuro se acerca...
 
+#SceneNumber:6
+
  -> END

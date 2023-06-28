@@ -3,144 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="06a3ff0a-6b1f-41f4-9158-6ee3a7df8365" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Xenigma Juegos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Xenigma Juegos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMÁGENES.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMÁGENES/IMG_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMÁGENES/IMG_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMÁGENES/IMG_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMÁGENES/IMG_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMÁGENES/IMG_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMÁGENES/IMG_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMÁGENES/IMG_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMÁGENES/IMG_4.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMÁGENES/IMG_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMÁGENES/IMG_5.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMÁGENES/IMG_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMÁGENES/IMG_6.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_Img_bienvenida.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_Img_bienvenida.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_Img_Bienvenida.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_Img_Bienvenida.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_Referencia_img.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_Referencia_img.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_6.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_Img_referencia.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_Img_referencia.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_img_bienvenida.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_img_bienvenida.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_6.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_img_bienvenida.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_img_bienvenida.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_img_bienvenida.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_img_bienvenida.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/FirstTutorial/CinematicDialogueTrigger.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/FirstTutorial/CinematicDialogueTrigger.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/FirstTutorial/InkDialogueManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/FirstTutorial/InkDialogueManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/00 El Mago Klevo.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/00 El Mago Klevo.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/00 El Mago Klevo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/00 El Mago Klevo.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/01 Hermana Agua.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/01 Hermana Agua.ink" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/01 Hermana Agua.ink.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/01 Hermana Agua.ink.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/01 Hermana Agua.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/01 Hermana Agua.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/01 Hermana Agua.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/01 Hermana Agua.json.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/02 Rey Nayar.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/02 Rey Nayar.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/02 Rey Nayar.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/02 Rey Nayar.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/03 Manuel Lozada.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/03 Manuel Lozada.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/03 Manuel Lozada.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/03 Manuel Lozada.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/04 Parque Juan Escutia.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/04 Parque Juan Escutia.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/04 Parque Juan Escutia.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/04 Parque Juan Escutia.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/06 Parque La Loma.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/06 Parque La Loma.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/06 Parque La Loma.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/06 Parque La Loma.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/07 Alameda.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/07 Alameda.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/07 Alameda.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/07 Alameda.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/08 Catedral.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/08 Catedral.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/08 Catedral.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/08 Catedral.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/09 Palacio de Gobierno.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/09 Palacio de Gobierno.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/09 Palacio de Gobierno.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/09 Palacio de Gobierno.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/10 Ex Fabrica Textil de Bellavista.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/10 Ex Fabrica Textil de Bellavista.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/10 Ex Fabrica Textil de Bellavista.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/10 Ex Fabrica Textil de Bellavista.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/11 Casa Denelón.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/11 Casa Denelón.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/11 Casa Denelón.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/11 Casa Denelón.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/12 Reloj Solar.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/12 Reloj Solar.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/12 Reloj Solar.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/12 Reloj Solar.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/13 Parque a la Madre.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/13 Parque a la Madre.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/13 Parque a la Madre.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/13 Parque a la Madre.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/14 Columna de la Pacificación.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/14 Columna de la Pacificación.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/14 Columna de la Pacificación.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/14 Columna de la Pacificación.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/15 Angel de la Independencia.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/15 Angel de la Independencia.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/15 Angel de la Independencia.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/15 Angel de la Independencia.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/16 Estacion de Tren.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/16 Estacion de Tren.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/16 Estacion de Tren.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/16 Estacion de Tren.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/17 Centro Contemporaneo Emilia Ortiz.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/17 Centro Contemporaneo Emilia Ortiz.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/17 Centro Contemporaneo Emilia Ortiz.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/17 Centro Contemporaneo Emilia Ortiz.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/18 Casa Museo Juan Escutia.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/18 Casa Museo Juan Escutia.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/18 Casa Museo Juan Escutia.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/18 Casa Museo Juan Escutia.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/CoreCode/CinematicManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/CoreCode/CinematicManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/CinematicDialogueTrigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/CinematicDialogueTrigger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/01 Hermana Agua.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/01 Hermana Agua.ink" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/01 Hermana Agua.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/01 Hermana Agua.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/02 Rey Nayar.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/02 Rey Nayar.ink" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/02 Rey Nayar.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/02 Rey Nayar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/03 Manuel Lozada.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/03 Manuel Lozada.ink" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/03 Manuel Lozada.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/03 Manuel Lozada.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/04 Parque Juan Escutia.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/04 Parque Juan Escutia.ink" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/04 Parque Juan Escutia.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/04 Parque Juan Escutia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/06 Parque La Loma.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/06 Parque La Loma.ink" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/06 Parque La Loma.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/06 Parque La Loma.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/07 Alameda.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/07 Alameda.ink" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/07 Alameda.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/07 Alameda.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/08 Catedral.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/08 Catedral.ink" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/08 Catedral.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/08 Catedral.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/10 Ex Fabrica Textil de Bellavista.ink" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/10 Ex Fabrica Textil de Bellavista.ink" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/10 Ex Fabrica Textil de Bellavista.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/Dialoggue Assets/10 Ex Fabrica Textil de Bellavista.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/InkDialogueManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/InkDialogueManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/03CinematicSceen.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/03CinematicSceen.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +32,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/InkDialogueManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/DiologSystem/InkSystem/Proyect/KlevoDialogueTrigger.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -214,6 +98,7 @@
       <workItem from="1687705579205" duration="2755000" />
       <workItem from="1687809157151" duration="4748000" />
       <workItem from="1687918824316" duration="5580000" />
+      <workItem from="1687952623036" duration="2006000" />
     </task>
     <servers />
   </component>

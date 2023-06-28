@@ -35,11 +35,17 @@ public class InkDialogueManager : MonoBehaviour
     private void Awake()
     {
         _sceneTransition = new SceneTransition();
-        if (instance != null)
+        if (instance == null)
+        {
+            instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else
         {
             Debug.LogWarning("Found more than one Ink Dialogue Manager in the scene");
+            Destroy(gameObject);
         }
-        instance = this;
+        
     }
 
     public static InkDialogueManager GetInstance()
@@ -132,7 +138,7 @@ public class InkDialogueManager : MonoBehaviour
         dialoguePanel.SetActive(false);
         dialogueText.text = "";
 
-        //StartCoroutine(GoToMyScene("02PreguntasDelPasado"));
+        StartCoroutine(GoToMyScene("02PreguntasDelPasado"));
     }
 
     private IEnumerator GoToMyScene(String SceneName)

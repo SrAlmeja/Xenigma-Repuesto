@@ -5228,6 +5228,7 @@ MonoBehaviour:
   - {fileID: 1759278057}
   - {fileID: 146306605}
   - {fileID: 387881216}
+  SceneNumber: {fileID: 11400000, guid: e1f41cb7d16ef9e49b7dda1618a23671, type: 2}
 --- !u!1 &1658420375
 GameObject:
   m_ObjectHideFlags: 0

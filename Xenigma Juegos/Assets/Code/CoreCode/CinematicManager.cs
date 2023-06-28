@@ -6,8 +6,10 @@ using UnityEngine;
 
 public class CinematicManager : MonoBehaviour
 {
+    [Header("Lista de Cinematicas")]
     [SerializeField] private GameObject[] cinematics;
-    // Start is called before the first frame update
+    [Header("Controlador de Escena")]
+    public IntVariable SceneNumber;
     void Awake()
     {
         for (int i = 0; i < cinematics.Length; i++)
@@ -82,48 +84,63 @@ public class CinematicManager : MonoBehaviour
         {
             case 1:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
             case 2:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
             case 3:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
             case 4:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
             case 5:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
             case 6:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
             case 7:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
             case 8:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
             case 9:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
             case 10:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
             case 11:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
             case 12:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
             case 13:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
             case 14:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
             case 15:
                 cinematics[number-1].gameObject.SetActive(true);
+                SceneNumber.Value = number;
                 break;
         }
     }
