@@ -39,6 +39,6 @@ Asi mismo, la alameda también cuenta con una biblioteca dotada de interesantes 
 #ActorImage:Alameda0 #layput:Narrator
 Las aves huyen, el viento sompla, algo oscuro se acerca...
 
-#SceneNumber:7
+#SceneNumber:6
 
  -> END

@@ -21,6 +21,8 @@ public class InkDialogueManager : MonoBehaviour
     private SceneTransition _sceneTransition;
     private Scene currentScene;
     private string sceneName;
+    [HideInInspector]
+    public bool endStory { get; private set; }
 
     private Story currentStory;
     public bool dialogueIsPlaying {get; private set;}
@@ -56,6 +58,7 @@ public class InkDialogueManager : MonoBehaviour
 
     private void Start()
     {
+        endStory = false;
         dialogueIsPlaying = false;
         dialoguePanel.SetActive(false);
         
@@ -90,7 +93,7 @@ public class InkDialogueManager : MonoBehaviour
         if (currentStory.canContinue)
         {
             dialogueText.text = currentStory.Continue();
-            Debug.Log("Se ´presiono el continuar");
+            //Debug.Log("Se ´presiono el continuar");
             HandleTags(currentStory.currentTags);
         }
         else
@@ -134,14 +137,15 @@ public class InkDialogueManager : MonoBehaviour
         }
     }
 
-    private IEnumerator ExitDialogueMode()
+    public IEnumerator ExitDialogueMode()
     {
         yield return new WaitForSeconds(0.2f);
 
         dialogueIsPlaying = false;
+        endStory = true;
         dialoguePanel.SetActive(false);
         dialogueText.text = "";
-        
+
         sceneName = currentScene.name;
         if (sceneName == "02PreguntasDelPasado")
         {

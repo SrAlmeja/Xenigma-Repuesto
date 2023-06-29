@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 62790b8b4539184478dcaabf724a2869, type: 3}
-  m_Name: QuestionData
+  m_Name: 08PalacioGobierno
   m_EditorClassIdentifier: 
   questions:
   - questionInfo: "\xBFHace cuantos a\xF1os se construy\xF3 la fuente \"Hermana Agua\"

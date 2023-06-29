@@ -39,4 +39,6 @@ Para el año de 1968 se inició una remodelación total del recinto para que fue
 Se siente un aura oscura
 sombras se alzan del piso y una risa burlona se escucha...
 
+#SceneNumber:8
+
  -> END
