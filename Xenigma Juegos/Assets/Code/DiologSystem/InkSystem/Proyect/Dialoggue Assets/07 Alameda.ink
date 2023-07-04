@@ -1,4 +1,4 @@
-# ActorName:Alameda #ActorImage:Alameda0 #layout:Default
+# ActorName:Alameda #ActorImage:Alameda0 #layout:Default06
 
 -> intro
 

@@ -6,6 +6,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 //Se llama a la libreria de Inky
 using Ink.Runtime;
+using Unity.VisualScripting;
 
 public class InkDialogueManager : MonoBehaviour
 {

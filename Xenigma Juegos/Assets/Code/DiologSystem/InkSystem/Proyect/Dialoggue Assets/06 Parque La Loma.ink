@@ -1,4 +1,4 @@
-# ActorName:Parque la Loma #ActorImage:ParqueLoma0 #layout:Default
+# ActorName:Parque la Loma #ActorImage:ParqueLoma0 #layout:Default05
 
 -> intro
 

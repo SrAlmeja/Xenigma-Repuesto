@@ -1,4 +1,4 @@
-#ActorName:Juan Escutia #ActorImage:ParqueJuanEscutia0 #layout:Default
+#ActorName:Juan Escutia #ActorImage:ParqueJuanEscutia0 #layout:Default04
 
 -> intro
 

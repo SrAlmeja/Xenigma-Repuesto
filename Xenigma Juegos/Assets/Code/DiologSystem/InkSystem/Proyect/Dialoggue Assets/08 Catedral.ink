@@ -1,5 +1,4 @@
-# ActorName:Catedral
-#ActorImage:Catedral
+# ActorName:Catedral #ActorImage:Catedral #layout:Default07
 
 -> intro
 
