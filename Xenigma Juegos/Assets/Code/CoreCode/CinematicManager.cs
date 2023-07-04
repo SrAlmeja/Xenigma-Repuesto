@@ -144,6 +144,8 @@ public class CinematicManager : MonoBehaviour
                 break;
         }
     }
+    
+    
 
 
 }

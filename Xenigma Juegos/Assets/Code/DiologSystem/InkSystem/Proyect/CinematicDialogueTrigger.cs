@@ -11,6 +11,11 @@ public class CinematicDialogueTrigger : MonoBehaviour
 
     void Start()
     {
+        
+    }
+
+    public void InizialiceDialogue()
+    {
         InkDialogueManager.GetInstance().EnterDialogueMode(inkJASON);
     }
 }
