@@ -1,5 +1,4 @@
-# ActorName:Catedral
-#ActorImage:Catedral
+# ActorName:Catedral #ActorImage:Catedral #layout:Default07
 
 -> intro
 
@@ -35,6 +34,6 @@ Enrique Bautista.
 El clima empieza a cambiar...
 nubes oscurar rodean la catedral, las sombras se alzan....
 
-#SceneNumber:8
+#SceneNumber:7
 
  -> END

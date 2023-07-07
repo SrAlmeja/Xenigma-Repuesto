@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62790b8b4539184478dcaabf724a2869, type: 3}
+  m_Name: 07Catedral
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\xBFHace cuantos a\xF1os se construy\xF3 la fuente \"Hermana Agua\"
+      en el parque la Loma?"
+    QuestionType: 0
+    questionImage: {fileID: 21300000, guid: f97ae920c539740479cc586b65faa8a7, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "3 a\xF1os"
+    - "10 a\xF1os"
+    - "7 a\xF1os"
+    - "17 a\xF1os"
+    correctAns: "17 a\xF1os"
+  - questionInfo: "\xBFen qu\xE9 a\xF1o y lugar se construy\xF3 la primer escultura
+      de la Hermana Agua?"
+    QuestionType: 0
+    questionImage: {fileID: 21300000, guid: f97ae920c539740479cc586b65faa8a7, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 1950 en el parque Juan Escutia
+    - 1987 en el parque La Loma
+    - 1953 en el parque a La Madre
+    correctAns: 1950 en el parque Juan Escutia
+  - questionInfo: "\xBFEn qu\xE9 se desbarat\xF3 la primera escultura de la Hermana
+      Agua?"
+    QuestionType: 0
+    questionImage: {fileID: 21300000, guid: f97ae920c539740479cc586b65faa8a7, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "1980 se construy\xF3 el reloj Solar de la Loma"
+    - "1987 se construy\xF3 la columna de la Pacificaci\xF3n"
+    - 1980 Se construyo el Teatro del pueblo
+    correctAns: 1980 Se construyo el Teatro del pueblo
+  - questionInfo: "\xBFQuien escribri\xF3 el poema \"La Hermana Agua en el cu\xE1l
+      est\xE1 inspirada la escultura del parque la Loma\"?"
+    QuestionType: 0
+    questionImage: {fileID: 21300000, guid: f97ae920c539740479cc586b65faa8a7, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Amado Nervo
+    - Ali Chumacero
+    - Guillermo Llanos
+    correctAns: Amado Nervo
+  - questionInfo: "\xBFComo va este poema? \"Lejos de sus ra\xEDces las ________
+      felices no se acuerdan del agua que reg\xF3 sus _______\""
+    QuestionType: 0
+    questionImage: {fileID: 21300000, guid: f97ae920c539740479cc586b65faa8a7, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Flores, p\xE9talos"
+    - "Corolas, ra\xEDces"
+    - "Rocas, Ra\xEDces"
+    correctAns: "Corolas, ra\xEDces"

@@ -1,4 +1,4 @@
-# ActorName:Parque la Loma #ActorImage:ParqueLoma0 #layout:Default
+# ActorName:Parque la Loma #ActorImage:ParqueLoma0 #layout:Default05
 
 -> intro
 
@@ -39,6 +39,6 @@ En 1920 aterrizó en este espacio el primer aeroplano que visitó Tepic
 #layout:Narrator
 Las aves huyen, el viento sompla, algo oscuro se acerca...
 
-#SceneNumber:6
+#SceneNumber:5
 
  -> END

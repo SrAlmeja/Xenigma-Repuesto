@@ -1,4 +1,4 @@
-#ActorName:Manuel Lozada #ActorImage:ManuelLozada0 #layout:Default
+#ActorName:Manuel Lozada #ActorImage:ManuelLozada0 #layout:Default03
 
 -> intro
 

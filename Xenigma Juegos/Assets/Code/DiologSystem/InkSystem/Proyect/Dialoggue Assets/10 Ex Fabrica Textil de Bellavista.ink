@@ -1,4 +1,4 @@
-#ActorName:Ex-Fabrica Textil de Bellavista #ActorImage:ExFabrica0 #layout:Default
+#ActorName:Ex-Fabrica Textil de Bellavista #ActorImage:ExFabrica0 #layout:Default09
 -> intro
 
 === intro ===

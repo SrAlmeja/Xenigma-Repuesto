@@ -1,4 +1,4 @@
-# ActorName:Alameda #ActorImage:Alameda0 #layout:Default
+# ActorName:Alameda #ActorImage:Alameda0 #layout:Default06
 
 -> intro
 
@@ -39,6 +39,6 @@ Asi mismo, la alameda también cuenta con una biblioteca dotada de interesantes 
 #ActorImage:Alameda0 #layput:Narrator
 Las aves huyen, el viento sompla, algo oscuro se acerca...
 
-#SceneNumber:7
+#SceneNumber:6
 
  -> END

@@ -1,4 +1,4 @@
-# ActorName:Rey Nayar #ActorImage:ReyNayar1 #layout:Default
+# ActorName:Rey Nayar #ActorImage:ReyNayar1 #layout:Default02
 -> intro
 
 === intro ===
