@@ -12,14 +12,18 @@ public class QuizManager : MonoBehaviour
     private List<Question> _questions;
     private Question selectedQuestion;
 
+    public IntVariable Chances; 
+    
     private void Start()
     {
         _questions = quizData.questions;
         
         SelectedQuestion();
+
+        Chances.Value = 3;
     }
 
-    void SelectedQuestion()
+    void SelectedQuestion() //Seleccionador random de las preguntas
     {
         int val = Random.Range(0, _questions.Count);
         selectedQuestion = _questions[val];
@@ -36,7 +40,9 @@ public class QuizManager : MonoBehaviour
         }
         else
         {
-            
+            correctAns = false;
+            Chances.Value--;
+            Debug.Log("Te quedan solo " + Chances.Value + " oportunidades");
         }
         
         Invoke("SelectedQuestion", 0.4f);
@@ -48,7 +54,7 @@ public class QuizManager : MonoBehaviour
 
 
 [System.Serializable]
-public class Question
+public class Question  // Aqui va toda la informacion que un objeto Question debe tener
 {
     public string questionInfo;
     public QuestionType QuestionType;
@@ -60,7 +66,7 @@ public class Question
 }
 
 [System.Serializable]
-public enum QuestionType
+public enum QuestionType  //El tipo de objeto question debe ser
 {
     TEXT,
     IMAGE,

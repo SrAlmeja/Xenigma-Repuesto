@@ -9,11 +9,13 @@ using UnityEngine.UI;
 
 public class QuizUI : MonoBehaviour
 {
+    [Header("Elementos del objeto Question")]
     [SerializeField] private QuizManager quizManager;
     [SerializeField] private TextMeshProUGUI questionText;
     [SerializeField] private Image questionImage;
     [SerializeField] private UnityEngine.Video.VideoPlayer questionVideo;
     [SerializeField] private AudioSource questionAudio;
+    [Header("Respuestas")]
     [SerializeField] private List<Button> options;
     [SerializeField] private Color correctColor, wrongColor, normalColor;
 
@@ -25,10 +27,18 @@ public class QuizUI : MonoBehaviour
     private ScoreManager _scoreManager;
     [SerializeField] private int points;
     [SerializeField] private IntVariable score;
-    
-        private void Awake()
-        {
-            _scoreManager = new ScoreManager();
+
+    [Header("Win/Lose Conditions")]
+    [SerializeField] private IntVariable chances;
+    [SerializeField] private Animator heartA1, heartA2, heartA3;
+    [SerializeField] private Animator loseWinCondition;
+    [SerializeField] private GameObject lose, win;
+    [HideInInspector] public bool istheGameOver;
+
+    private void Awake()
+    {
+        istheGameOver = false;
+        _scoreManager = new ScoreManager();
         for (int i = 0; i < options.Count; i++)
         {
             Button localBtn = options[i];
@@ -119,15 +129,39 @@ public class QuizUI : MonoBehaviour
             {
                 btn.image.color = correctColor;
                 score.Value += points;
-                /*_scoreManager.AddScore(points);*/
             }
             else
             {
                 btn.image.color = wrongColor;
                 score.Value -= (points-20);
+                LifeController();
             }
             scoreText.text = score.Value.ToString();
         }
     }
-    
+
+    public void LifeController()
+    {
+        if (chances.Value == 2)
+        {
+            heartA3.Play("HeartBroken");
+        }
+
+        if (chances.Value == 1)
+        {
+            heartA2.Play("HeartBroken");
+            heartA1.Play("LastLife");
+        }
+
+        if (chances.Value <= 0)
+        {
+            heartA1.Play("HeartBroken");
+            loseWinCondition.Play("LoseDiologue");
+            lose.SetActive(true);
+            istheGameOver = true;
+        }
     }
+    
+    
+
+}
