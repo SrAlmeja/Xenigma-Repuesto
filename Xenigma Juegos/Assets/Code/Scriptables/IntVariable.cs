@@ -6,9 +6,9 @@ using UnityEngine;
 public class IntVariable : ScriptableObject
 {
     public string DeveloperDescription;
-    public float Value;
+    public int Value;
 
-    public void SetValue(float value)
+    public void SetValue(int value)
     {
         Value = value;
     }
