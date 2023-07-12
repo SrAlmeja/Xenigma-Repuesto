@@ -6,13 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/01SceenTest.unity
+    path: Assets/Scenes/01SceneTest.unity
     guid: 3d1071c6fc40fa04aa0fb4f12a843276
   - enabled: 1
     path: Assets/Scenes/02PreguntasDelPasado.unity
     guid: be150b57bd118ce4b992c6a719a69e1d
   - enabled: 1
-    path: Assets/Scenes/03CinematicSceen.unity
+    path: Assets/Scenes/03CinematicScene.unity
     guid: b7d57b996d436da449f3918932675244
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
