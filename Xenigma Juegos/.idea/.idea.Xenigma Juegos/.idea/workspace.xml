@@ -3,7 +3,906 @@
   <component name="ChangeListManager">
     <list default="true" id="06a3ff0a-6b1f-41f4-9158-6ee3a7df8365" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Xenigma Juegos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Xenigma Juegos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Prefabs/Button.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Prefabs/Button.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Alameda.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Alameda/OB_Alameda_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Alameda/OB_Alameda_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Alameda/OB_Alameda_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Alameda/OB_Alameda_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Alameda/OB_Alameda_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Alameda/OB_Alameda_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Angel_Independencia.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Angel_Independencia/OB_Angel_independencia_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Angel_Independencia/OB_Angel_independencia_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Angel_Independencia/OB_Angel_independencia_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Angel_Independencia/OB_Angel_independencia_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Angel_Independencia/OB_Angel_independencia_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Angel_Independencia/OB_Angel_independencia_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Casa_fenelon.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Casa_fenelon/OB_Casa_fenelon_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Casa_fenelon/OB_Casa_fenelon_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Casa_fenelon/OB_Casa_fenelon_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Casa_fenelon/OB_Casa_fenelon_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Casa_fenelon/OB_Casa_fenelon_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Casa_fenelon/OB_Casa_fenelon_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Catedral.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Catedral/OB_Catedral_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Catedral/OB_Catedral_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Catedral/OB_Catedral_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Catedral/OB_Catedral_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Catedral/OB_Catedral_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Catedral/OB_Catedral_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Columna_pacificacion.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Columna_pacificacion/OB_Columna_pacificacion_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Columna_pacificacion/OB_Columna_pacificacion_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Columna_pacificacion/OB_Columna_pacificacion_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Columna_pacificacion/OB_Columna_pacificacion_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Columna_pacificacion/OB_Columna_pacificacion_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Columna_pacificacion/OB_Columna_pacificacion_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Emilia_Ortiz.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Emilia_Ortiz/OB_Emilia_Ortiz_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Emilia_Ortiz/OB_Emilia_Ortiz_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Emilia_Ortiz/OB_Emilia_Ortiz_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Emilia_Ortiz/OB_Emilia_Ortiz_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Emilia_Ortiz/OB_Emilia_Ortiz_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Emilia_Ortiz/OB_Emilia_Ortiz_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Estacion_tren.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Estacion_tren/OB_Estacion_tren_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Estacion_tren/OB_Estacion_tren_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Estacion_tren/OB_Estacion_tren_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Estacion_tren/OB_Estacion_tren_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Estacion_tren/OB_Estacion_tren_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Estacion_tren/OB_Estacion_tren_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Ex_Fabrica.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Ex_Fabrica/OB_Ex_fabrica_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Ex_Fabrica/OB_Ex_fabrica_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Ex_Fabrica/OB_Ex_fabrica_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Ex_Fabrica/OB_Ex_fabrica_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Ex_Fabrica/OB_Ex_fabrica_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Ex_Fabrica/OB_Ex_fabrica_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Hermana Agua.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Hermana Agua/OB_Hermana_agua_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Hermana Agua/OB_Hermana_agua_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Hermana Agua/OB_Hermana_agua_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Hermana Agua/OB_Hermana_agua_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Hermana Agua/OB_Hermana_agua_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Hermana Agua/OB_Hermana_agua_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Manuel_Lozada.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Manuel_Lozada/OB_Manuel_lozada_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Manuel_Lozada/OB_Manuel_lozada_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Manuel_Lozada/OB_Manuel_lozada_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Manuel_Lozada/OB_Manuel_lozada_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Manuel_Lozada/OB_Manuel_lozada_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Manuel_Lozada/OB_Manuel_lozada_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Museo_Juan_Escutia.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Museo_Juan_Escutia/OB_Museo_juan_escutia_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Museo_Juan_Escutia/OB_Museo_juan_escutia_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Museo_Juan_Escutia/OB_Museo_juan_escutia_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Museo_Juan_Escutia/OB_Museo_juan_escutia_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Museo_Juan_Escutia/OB_Museo_juan_escutia_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Museo_Juan_Escutia/OB_Museo_juan_escutia_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Palacio_Gobierno.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Palacio_Gobierno/OB_Palacio_gobierno_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Palacio_Gobierno/OB_Palacio_gobierno_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Palacio_Gobierno/OB_Palacio_gobierno_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Palacio_Gobierno/OB_Palacio_gobierno_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Palacio_Gobierno/OB_Palacio_gobierno_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Palacio_Gobierno/OB_Palacio_gobierno_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_Juan_Escutia.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_Juan_Escutia/OB_Parque_juan_escutia_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_Juan_Escutia/OB_Parque_juan_escutia_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_Juan_Escutia/OB_Parque_juan_escutia_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_Juan_Escutia/OB_Parque_juan_escutia_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_Juan_Escutia/OB_Parque_juan_escutia_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_Juan_Escutia/OB_Parque_juan_escutia_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_La_Loma.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_La_Loma/OB_Parque _loma_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_La_Loma/OB_Parque _loma_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_La_Loma/OB_Parque _loma_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_La_Loma/OB_Parque _loma_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_La_Loma/OB_Parque _loma_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_La_Loma/OB_Parque _loma_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_madre.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_madre/OB_Parque_madre_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_madre/OB_Parque_madre_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_madre/OB_Parque_madre_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_madre/OB_Parque_madre_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_madre/OB_Parque_madre_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Parque_madre/OB_Parque_madre_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Reloj_Solar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Reloj_Solar/OB_Reloj_solar_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Reloj_Solar/OB_Reloj_solar_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Reloj_Solar/OB_Reloj_solar_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Reloj_Solar/OB_Reloj_solar_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Reloj_Solar/OB_Reloj_solar_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Reloj_Solar/OB_Reloj_solar_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Rey_Nayar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Rey_Nayar/OB_Rey_Nayar_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Rey_Nayar/OB_Rey_Nayar_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Rey_Nayar/OB_Rey_Nayar_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Rey_Nayar/OB_Rey_Nayar_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Rey_Nayar/OB_Rey_Nayar_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Preguntas del pasado/Rey_Nayar/OB_Rey_Nayar_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/01 HermanaAguaTrigger.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/01 HermanaAguaTrigger.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ActorImageAnimator.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ActorImageAnimator.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Alemeda0.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Alemeda0.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Alemeda1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Alemeda1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Alemeda2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Alemeda2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Alemeda3.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Alemeda3.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Alemeda4.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Alemeda4.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Alemeda5.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Alemeda5.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Catedral0.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Catedral0.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Catedral1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Catedral1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Catedral3.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Catedral3.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Catedral4.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Catedral4.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Default.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/Default.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ExFabrica0.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ExFabrica0.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ExFabrica1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ExFabrica1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ExFabrica2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ExFabrica2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ExFabrica3.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ExFabrica3.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ExFabrica4.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ExFabrica4.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ExFabrica5.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ExFabrica5.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/HermanaAgua0.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/HermanaAgua0.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/HermanaAgua1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/HermanaAgua1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/HermanaAgua2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/HermanaAgua2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/HermanaAgua3.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/HermanaAgua3.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/HermanaAgua4.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/HermanaAgua4.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/HermanaAgua5.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/HermanaAgua5.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/MagoKlevo0.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/MagoKlevo0.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/MagoKlevo1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/MagoKlevo1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ManuelLozada0.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ManuelLozada0.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ManuelLozada1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ManuelLozada1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ManuelLozada2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ManuelLozada2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ManuelLozada3.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ManuelLozada3.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ManuelLozada4.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ManuelLozada4.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ManuelLozada5.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ManuelLozada5.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/PalacioGobierno0.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/PalacioGobierno0.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/PalacioGobierno1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/PalacioGobierno1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/PalacioGobierno2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/PalacioGobierno2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/PalacioGobierno3.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/PalacioGobierno3.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/PalacioGobierno4.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/PalacioGobierno4.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/PalacioGobierno5.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/PalacioGobierno5.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/PalacioGobierno6.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/PalacioGobierno6.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueJuanEscutia0.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueJuanEscutia0.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueJuanEscutia1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueJuanEscutia1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueJuanEscutia2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueJuanEscutia2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueJuanEscutia3.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueJuanEscutia3.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueJuanEscutia4.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueJuanEscutia4.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueJuanEscutia5.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueJuanEscutia5.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueLoma0.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueLoma0.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueLoma1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueLoma1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueLoma2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueLoma2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueLoma3.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueLoma3.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueLoma4.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueLoma4.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueLoma5.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ParqueLoma5.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ReyNayar1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ReyNayar1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ReyNayar2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ReyNayar2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ReyNayar3.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ReyNayar3.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ReyNayar4.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ReyNayar4.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ReyNayar5.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/ActorImageAnimators/ReyNayar5.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/EndIntro.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/EndIntro.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/KlevoDialogue.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/KlevoDialogue/BackGroundPanel.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/KlevoDialogue/BackGroundPanel.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/KlevoDialogue/KlevoDialogue.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/KlevoDialogue/KlevoDialogue.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/KlevoDialogue/LoseDiologue.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/KlevoDialogue/LoseDiologue.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/KlevoDialogue/Start Dialogue.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/KlevoDialogue/Start Dialogue.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default01.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default01.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default02.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default02.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default03.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default03.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default04.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default04.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default05.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default05.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default06.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default06.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default07.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default07.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default08.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default08.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default09.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Default09.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Defrault.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Defrault.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/LayOut.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/LayOut.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Left.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Left.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Narrator.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Narrator.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Right.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/LayOutAnimators/Right.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/StartCinematic.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/StartCinematic.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/Transition.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Dialogue System/Transition.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox/Cinematic Example.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox/Cinematic Example/Image.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox/Cinematic Example/Image.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox/Cinematic Example/PasameLatrifuerza.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox/Cinematic Example/PasameLatrifuerza.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox/Cinematic Example/The Cinematic.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox/Cinematic Example/The Cinematic.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox/Enemies.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox/Enemies/Enemy.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox/Enemies/Enemy.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox/Enemies/QuestionBox.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox/Enemies/QuestionBox.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox/Enemies/Zumbat.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/GreyBox/Enemies/Zumbat.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/LifeSystem.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/LifeSystem/Heart (2).controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/LifeSystem/Heart (2).controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/LifeSystem/HeartBroken.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/LifeSystem/HeartBroken.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/LifeSystem/Idle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/LifeSystem/Idle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/LifeSystem/LastLife.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/LifeSystem/LastLife.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Audio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Audio/Diolog Note.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Audio/Diolog Note.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Audio/TestAudio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Audio/TestAudio/15 Game Over.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Audio/TestAudio/15 Game Over.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Audio/TestAudio/Diolog Note.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Audio/TestAudio/Diolog Note.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/Answer Button.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/Answer Button.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/BackGroundMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/BackGroundMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/EvilCloudMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/EvilCloudMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/EvilMagicMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/EvilMagicMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/EvilMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/EvilMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/GreenMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/GreenMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/Hermana agua testMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/Hermana agua testMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/HistoricItemsMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrayBox/HistoricItemsMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Prefabs/Button.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Prefabs/Button.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Actors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Actors/Hermana Agua.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Actors/Hermana Agua.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Actors/Hermana-agua.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Actors/Hermana-agua.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Actors/Ideaas7-FINAL (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Actors/Ideaas7-FINAL (2).jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Actors/Mago.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Actors/Mago.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Actors/default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Actors/default.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box/P_Ganaste_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box/P_Ganaste_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box/P_Ganaste_recuadro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box/P_Ganaste_recuadro.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box/P_Info1_Recuadro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box/P_Info1_Recuadro.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box/P_Pregunta_1_boton_regresar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box/P_Pregunta_1_boton_regresar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box/P_Pregunta_1_recuadro_pregunta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box/P_Pregunta_1_recuadro_pregunta.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box/P_Pregunta_1_recuadro_respuesta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box/P_Pregunta_1_recuadro_respuesta.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box/P_info1_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Button and Diolog Box/P_info1_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Dialogue System.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Dialogue System/defaullt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Dialogue System/defaullt.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Extras.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Extras/Hermana Agua.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Extras/Hermana Agua/P_Obj_bonus_juego_objeto1_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Extras/Hermana Agua/P_Obj_bonus_juego_objeto1_big.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Extras/Hermana Agua/P_Obj_bonus_juego_objeto2_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Extras/Hermana Agua/P_Obj_bonus_juego_objeto2_big.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Extras/Hermana Agua/P_Obj_bonus_juego_objeto3_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Extras/Hermana Agua/P_Obj_bonus_juego_objeto3_big.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Extras/icono_sin_vida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Extras/icono_sin_vida.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Extras/icono_vida_completa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Extras/icono_vida_completa.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/IMG_MEMORAMA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/IMG_MEMORAMA/P_Memorama_Juego_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/IMG_MEMORAMA/P_Memorama_Juego_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/IMG_MEMORAMA/P_Memorama_Juego_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/IMG_MEMORAMA/P_Memorama_Juego_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/IMG_MEMORAMA/P_Memorama_Juego_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/IMG_MEMORAMA/P_Memorama_Juego_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/IMG_MEMORAMA/P_Memorama_Juego_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/IMG_MEMORAMA/P_Memorama_Juego_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/IMG_MEMORAMA/P_Memorama_Juego_IMG_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/IMG_MEMORAMA/P_Memorama_Juego_IMG_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_Fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_Fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_IMG_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_IMG_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_Referencia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_Referencia.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_cuadro_txt_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_cuadro_txt_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_cuadro_txt_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_cuadro_txt_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_img_bienvenida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/01_Casa_fenelon/P_Fenelon_img_bienvenida.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/IMG_MEMORAMA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/IMG_MEMORAMA/P_Reloj_IMG_JUEGO_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/IMG_MEMORAMA/P_Reloj_IMG_JUEGO_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/IMG_MEMORAMA/P_Reloj_IMG_JUEGO_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/IMG_MEMORAMA/P_Reloj_IMG_JUEGO_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/IMG_MEMORAMA/P_Reloj_IMG_JUEGO_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/IMG_MEMORAMA/P_Reloj_IMG_JUEGO_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/IMG_MEMORAMA/P_Reloj_IMG_JUEGO_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/IMG_MEMORAMA/P_Reloj_IMG_JUEGO_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/IMG_MEMORAMA/P_Reloj_IMG_JUEGO_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/IMG_MEMORAMA/P_Reloj_IMG_JUEGO_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_Referemcia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_Referemcia.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_cuadro_txt_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_cuadro_txt_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_cuadro_txt_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_cuadro_txt_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_img_bienvenida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/02_Reloj_solar/P_Reloj_img_bienvenida.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_img_bienvenida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_img_bienvenida.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_recuadro_txt_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_recuadro_txt_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_recuadro_txt_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_recuadro_txt_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_referencia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/P_Parque_madre_referencia.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/img_memorama.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/img_memorama/P_Parque_madre_img_juego_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/img_memorama/P_Parque_madre_img_juego_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/img_memorama/P_Parque_madre_img_juego_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/img_memorama/P_Parque_madre_img_juego_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/img_memorama/P_Parque_madre_img_juego_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/img_memorama/P_Parque_madre_img_juego_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/img_memorama/P_Parque_madre_img_juego_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/img_memorama/P_Parque_madre_img_juego_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/img_memorama/P_Parque_madre_img_juego_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/03_Parque_a_la_madre/img_memorama/P_Parque_madre_img_juego_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/IMG_MEMORAMA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/IMG_MEMORAMA/P_columna_pacificacion_IMG_juego_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/IMG_MEMORAMA/P_columna_pacificacion_IMG_juego_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/IMG_MEMORAMA/P_columna_pacificacion_IMG_juego_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/IMG_MEMORAMA/P_columna_pacificacion_IMG_juego_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/IMG_MEMORAMA/P_columna_pacificacion_IMG_juego_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/IMG_MEMORAMA/P_columna_pacificacion_IMG_juego_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/IMG_MEMORAMA/P_columna_pacificacion_IMG_juego_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/IMG_MEMORAMA/P_columna_pacificacion_IMG_juego_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/IMG_MEMORAMA/P_columna_pacificacion_IMG_juego_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/IMG_MEMORAMA/P_columna_pacificacion_IMG_juego_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_cuadro_txt_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_cuadro_txt_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_cuadro_txt_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_cuadro_txt_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_img_bienvenida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_img_bienvenida.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_referencia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/04_Columna_pacificacion/P_columna_pacificacion_referencia.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/IMG_MEMORAMA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/IMG_MEMORAMA/P_angel_independencia_IMG_JUEGO_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/IMG_MEMORAMA/P_angel_independencia_IMG_JUEGO_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/IMG_MEMORAMA/P_angel_independencia_IMG_JUEGO_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/IMG_MEMORAMA/P_angel_independencia_IMG_JUEGO_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/IMG_MEMORAMA/P_angel_independencia_IMG_JUEGO_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/IMG_MEMORAMA/P_angel_independencia_IMG_JUEGO_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/IMG_MEMORAMA/P_angel_independencia_IMG_JUEGO_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/IMG_MEMORAMA/P_angel_independencia_IMG_JUEGO_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/IMG_MEMORAMA/P_angel_independencia_IMG_JUEGO_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/IMG_MEMORAMA/P_angel_independencia_IMG_JUEGO_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_img_bienvenida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_img_bienvenida.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_recuadro_texto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_recuadro_texto.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_referencia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/05_Angel_independencia/P_angel_independencia_referencia.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/IMG_MEMORAMA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/IMG_MEMORAMA/P_Estacion_tren_IMG_juego_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/IMG_MEMORAMA/P_Estacion_tren_IMG_juego_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/IMG_MEMORAMA/P_Estacion_tren_IMG_juego_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/IMG_MEMORAMA/P_Estacion_tren_IMG_juego_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/IMG_MEMORAMA/P_Estacion_tren_IMG_juego_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/IMG_MEMORAMA/P_Estacion_tren_IMG_juego_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/IMG_MEMORAMA/P_Estacion_tren_IMG_juego_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/IMG_MEMORAMA/P_Estacion_tren_IMG_juego_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/IMG_MEMORAMA/P_Estacion_tren_IMG_juego_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/IMG_MEMORAMA/P_Estacion_tren_IMG_juego_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_CUADRO_TXT_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_CUADRO_TXT_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_CUADRO_TXT_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_CUADRO_TXT_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_img_bienvenida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_img_bienvenida.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_referencia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/06_Estacion_tren/P_Estacion_tren_referencia.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/IMG_MEMORAMA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/IMG_MEMORAMA/P_Centro_Emilia_IMG_JUEGO_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/IMG_MEMORAMA/P_Centro_Emilia_IMG_JUEGO_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/IMG_MEMORAMA/P_Centro_Emilia_IMG_JUEGO_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/IMG_MEMORAMA/P_Centro_Emilia_IMG_JUEGO_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/IMG_MEMORAMA/P_Centro_Emilia_IMG_JUEGO_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/IMG_MEMORAMA/P_Centro_Emilia_IMG_JUEGO_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/IMG_MEMORAMA/P_Centro_Emilia_IMG_JUEGO_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/IMG_MEMORAMA/P_Centro_Emilia_IMG_JUEGO_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/IMG_MEMORAMA/P_Centro_Emilia_IMG_JUEGO_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/IMG_MEMORAMA/P_Centro_Emilia_IMG_JUEGO_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_cuadro_txt_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_cuadro_txt_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_cuadro_txt_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_cuadro_txt_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_img_bienvenida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_img_bienvenida.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_referencia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/07_Centro_Emilia/P_Centro_Emilia_referencia.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/IMG_MEMORAMA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/IMG_MEMORAMA/P_Museo_Escutia_IMG_JUEGO_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/IMG_MEMORAMA/P_Museo_Escutia_IMG_JUEGO_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/IMG_MEMORAMA/P_Museo_Escutia_IMG_JUEGO_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/IMG_MEMORAMA/P_Museo_Escutia_IMG_JUEGO_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/IMG_MEMORAMA/P_Museo_Escutia_IMG_JUEGO_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/IMG_MEMORAMA/P_Museo_Escutia_IMG_JUEGO_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/IMG_MEMORAMA/P_Museo_Escutia_IMG_JUEGO_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/IMG_MEMORAMA/P_Museo_Escutia_IMG_JUEGO_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/IMG_MEMORAMA/P_Museo_Escutia_IMG_JUEGO_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/IMG_MEMORAMA/P_Museo_Escutia_IMG_JUEGO_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_cuadro_txt_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_cuadro_txt_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_cuadro_txt_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_cuadro_txt_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_img_bienvenida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_img_bienvenida.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_referencia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/08_Museo_Juan_Escutia/P_Museo_Escutia_referencia.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG 1.jpeg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG MEMORAMA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG MEMORAMA/P_Luis_IMG_JUEGO_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG MEMORAMA/P_Luis_IMG_JUEGO_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG MEMORAMA/P_Luis_IMG_JUEGO_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG MEMORAMA/P_Luis_IMG_JUEGO_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG MEMORAMA/P_Luis_IMG_JUEGO_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG MEMORAMA/P_Luis_IMG_JUEGO_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG MEMORAMA/P_Luis_IMG_JUEGO_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG MEMORAMA/P_Luis_IMG_JUEGO_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG MEMORAMA/P_Luis_IMG_JUEGO_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG MEMORAMA/P_Luis_IMG_JUEGO_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG2.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/IMG3.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/P_Luis_cuadro txt_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/P_Luis_cuadro txt_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/P_fondo_lui_miramontes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/P_fondo_lui_miramontes.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/P_luis_cuadrotxt1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/P_luis_cuadrotxt1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/P_luis_cuadrotxt3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/P_luis_cuadrotxt3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/img 4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/img 4.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/img 6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/img 6.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/img5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/img5.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/p_lUIS_bOTON.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/09_LUIS ERNESTO MIRAMONES/p_lUIS_bOTON.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_Juego_corazon_lleno.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_Juego_corazon_lleno.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_Juego_corazon_vacio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_Juego_corazon_vacio.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_Juego_cuadro_pares.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_Juego_cuadro_pares.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_Juego_fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_Juego_fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_Juego_recuadro_vidas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_Juego_recuadro_vidas.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_Juego_referencia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_Juego_referencia.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_Juego_tarjeta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_Juego_tarjeta.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_referencia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_Memorama_referencia.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_memorama_boton_jugar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_memorama_boton_jugar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_memorama_boton_salir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_memorama_boton_salir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_memorama_encabezado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_memorama_encabezado.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_memorama_fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_memorama_fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_memorama_instrucciones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/MemoryGame/Memorama_elementos/P_memorama_instrucciones.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMG_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMG_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMG_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/IMG_6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/P_Bienvenida_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/P_Bienvenida_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/P_Bienvenida_fondo_SIN TEXTO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/01_HERMANA_AGUA/P_Bienvenida_fondo_SIN TEXTO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_Boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_Boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_Fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_Fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/02_REY_NAYAR/P_Rey_IMG_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_Boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_Boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_Fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_Fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_IMG_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_Img_bienvenida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/03_Manuel_Lozada/P_Manuel_Img_bienvenida.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_Boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_Boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_Fondo (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_Fondo (1).png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_IMG_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_Img_Bienvenida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/04_Parque_Juan_Escutia/P_Juan_Img_Bienvenida.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_IMG_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_Referencia_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_Referencia_img.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/05_Parque_Loma/P_La_Loma_fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_Boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_Boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_Fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_Fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_IMG_6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_Img_referencia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/06_Alameda/P_Alameda_Img_referencia.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_Fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_Fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_IMG_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_img_bienvenida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/07_Catedral/P_Catedral_img_bienvenida.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_Fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_Fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_IMG_6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_img_bienvenida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/08_Palacio_gobierno/P_Palacio_img_bienvenida.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_IMG_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_img_bienvenida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Preguntas del pasado/09_Ex_Fabrica/P_Fabrica_img_bienvenida.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/52958-removebg-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/52958-removebg-preview.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/PNG_transparency_demonstration_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Testting Sprites/PNG_transparency_demonstration_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI/P_Obj_bonus_boton_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI/P_Obj_bonus_boton_menu.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI/P_Obj_bonus_juego_boton_regresar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI/P_Obj_bonus_juego_boton_regresar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI/P_Obj_bonus_juego_encabezado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI/P_Obj_bonus_juego_encabezado.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI/Zones Welcome.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI/Zones Welcome/Hermana Agua.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI/Zones Welcome/Hermana Agua/P_Bienvenida_boton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI/Zones Welcome/Hermana Agua/P_Bienvenida_boton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI/Zones Welcome/Hermana Agua/P_Bienvenida_fondo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI/Zones Welcome/Hermana Agua/P_Bienvenida_fondo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI/Zones Welcome/Hermana Agua/P_Bienvenida_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/UI/Zones Welcome/Hermana Agua/P_Bienvenida_img.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/output-onlinegiftools (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/output-onlinegiftools (1).png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Typos.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Typos/AutourOne-Regular SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Typos/AutourOne-Regular SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Typos/AutourOne-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Typos/AutourOne-Regular.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Video.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Video/TestVideo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Video/TestVideo/Dark Secrets trailer.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Video/TestVideo/Dark Secrets trailer.mp4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Memoria de la Historia/AddButtons.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Memoria de la Historia/AddButtons.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Memoria de la Historia/MemoryGameController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Memoria de la Historia/MemoryGameController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/04MemoryGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/04MemoryGame.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +985,7 @@
       <workItem from="1688424336910" duration="4908000" />
       <workItem from="1688767014416" duration="1194000" />
       <workItem from="1689099492103" duration="28214000" />
+      <workItem from="1689163433821" duration="6367000" />
     </task>
     <servers />
   </component>
