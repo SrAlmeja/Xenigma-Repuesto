@@ -17,6 +17,7 @@ public class InkDialogueManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI actorName;
     [SerializeField] private Animator actorImageAnimator;
     [SerializeField] private Animator layoutAnimator;
+    
 
     [Header("Scene Controll")]
     private SceneTransition _sceneTransition;
@@ -162,9 +163,10 @@ public class InkDialogueManager : MonoBehaviour
 
     private IEnumerator GoToMyScene(String SceneName)
     {
-        yield return new WaitForSeconds(3f);
+        yield return new WaitForSeconds(1f);
         
         _sceneTransition.SceneToLoad = SceneName;
         _sceneTransition.LoadScene();
     }
+    
 }

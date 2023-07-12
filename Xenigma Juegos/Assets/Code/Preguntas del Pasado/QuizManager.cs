@@ -29,6 +29,8 @@ public class QuizManager : MonoBehaviour
         selectedQuestion = _questions[val];
 
         quizUI.SetQuestion(selectedQuestion);
+        
+        _questions.RemoveAt(val);
     }
 
     public bool Answer(string answered)

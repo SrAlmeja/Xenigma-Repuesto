@@ -32,12 +32,16 @@ public class QuizUI : MonoBehaviour
     [SerializeField] private IntVariable chances;
     [SerializeField] private Animator heartA1, heartA2, heartA3;
     [SerializeField] private Animator loseWinCondition;
-    [SerializeField] private GameObject lose, win;
-    [HideInInspector] public bool istheGameOver;
+    [SerializeField] private GameObject lose, win, loseTrigger, winTrigger
+        ;
+    [SerializeField] private GameObject quizGame, backGround;
+    public bool IsGameOver;
+
+    [Header("Game Question Manager")]
+    [SerializeField] private GameQuestionManager gameQuestionManager;
 
     private void Awake()
     {
-        istheGameOver = false;
         _scoreManager = new ScoreManager();
         for (int i = 0; i < options.Count; i++)
         {
@@ -157,11 +161,23 @@ public class QuizUI : MonoBehaviour
         {
             heartA1.Play("HeartBroken");
             loseWinCondition.Play("LoseDiologue");
-            lose.SetActive(true);
-            istheGameOver = true;
+            loseTrigger.gameObject.SetActive(true);
+            lose.gameObject.SetActive(true);
+            GameOver();
         }
+        
     }
     
-    
+    private void GameOver()
+    {
+        quizGame.gameObject.SetActive(false);
+    }
+
+    private void MisionComplete()
+    {
+        loseWinCondition.Play("WinDialogue");
+        winTrigger.gameObject.SetActive(true);
+        win.gameObject.SetActive(true);
+    }
 
 }
